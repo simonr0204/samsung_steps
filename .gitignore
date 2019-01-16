@@ -1,4 +1,6 @@
+# Ignore everything
+*
 
-\.ipynb_checkpoints/Steps analysis-checkpoint\.ipynb
-
-\.ipynb_checkpoints/steps-checkpoint\.ipynb
+# But not these files...
+!steps.ipynb
+!.gitignore
